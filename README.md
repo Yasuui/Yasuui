@@ -8,5 +8,5 @@
 
 - 🚀 GOAL: Become a full stack blockchain developer and make cool things that change the world...
 
-- 📫 How to reach me @KingYasuke on twitter through the DMs... will add more later
+- 📫 How to reach me @yasu_eth on twitter through the DMs... will add more later
 
