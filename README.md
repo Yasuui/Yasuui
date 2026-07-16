@@ -6,6 +6,7 @@ Currently working across public-sector automation, startup product development, 
 
 ## Selected work
 
+- [Workflow Friction Mapper](https://workflow-friction-mapper.vercel.app) ([source](https://github.com/Yasuui/workflow-friction-mapper)) — A privacy-first browser tool that maps manual workflows, explains directional automation signals, and proposes safer measurable pilots.
 - [Hermes Community Skills](https://github.com/Yasuui/hermes-community-skills) — A provenance-aware registry and catalog pipeline for community AI-agent skills.
 - [ystack](https://github.com/Yasuui/ystack) — Open-source tooling for orchestrating specialized AI development agents.
 - [Gold & Black](https://github.com/Yasuui/Gold-Black) — A reusable Next.js and TypeScript portfolio system with a privacy-first content architecture.
