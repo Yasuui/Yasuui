@@ -1,21 +1,28 @@
-# Yonis Diriye
+<p align="center">
+  <img src="./assets/systems-line.svg" alt="Yonis Diriye — AI automation and full-stack development" width="100%" />
+</p>
 
-AI automation and full-stack developer building reliable workflow systems, developer tools, and product experiences.
+<p align="center">
+  I turn unclear workflows into practical products, automations, and agent-powered tools—then share what I learn.
+</p>
 
-Currently working across public-sector automation, startup product development, and open-source AI tooling.
+<p align="center">
+  <a href="https://diriye.ca">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/yonisdiriye/">LinkedIn</a> ·
+  <a href="https://cal.com/yonis-diriye">Connect</a>
+</p>
 
 ## Selected work
 
-- [Workflow Friction Mapper](https://workflow-friction-mapper.vercel.app) ([source](https://github.com/Yasuui/workflow-friction-mapper)) — A privacy-first browser tool that maps manual workflows, explains directional automation signals, and proposes safer measurable pilots.
-- [Hermes Community Skills](https://github.com/Yasuui/hermes-community-skills) — A provenance-aware registry and catalog pipeline for community AI-agent skills.
-- [ystack](https://github.com/Yasuui/ystack) — Open-source tooling for orchestrating specialized AI development agents.
-- [Gold & Black](https://github.com/Yasuui/Gold-Black) — A reusable Next.js and TypeScript portfolio system with a privacy-first content architecture.
-- [BasePass](https://github.com/Yasuui/BasePass) — A TypeScript and Solidity event-passport prototype with signed QR claims and replay protection.
+| Project | What it proves | Built with |
+| --- | --- | --- |
+| [Workflow Friction Mapper](https://workflow-friction-mapper.vercel.app) | Maps manual work into safer, measurable automation pilots. | Next.js · TypeScript |
+| [Hermes Community Skills](https://hermes-community-skills.vercel.app) | Makes community agent skills easier to discover and evaluate. | Python · Data pipelines |
+| [BasePass](https://github.com/Yasuui/BasePass) | Protects event-pass claims with signed QR codes and replay prevention. | Solidity · TypeScript |
+| [Gold & Black](https://github.com/Yasuui/Gold-Black) | Packages a reusable, privacy-first portfolio system. | Next.js · Tailwind CSS |
 
-## Focus
+## Building around
 
-TypeScript · Next.js · React · Python · AI automation · Agent workflows · Process automation
+`AI automation` · `Agent workflows` · `Product engineering` · `Internal tools`
 
-Open to interesting engineering opportunities in Canada, the UAE, Europe, and the U.S., including relocation and remote work.
-
-[Portfolio](https://diriye.ca) · [LinkedIn](https://www.linkedin.com/in/yonisdiriye/) · [Book a call](https://cal.com/yonis-diriye)
+Learning in public and open to engineering roles, startup collaborations, and practical AI projects with teams that value curiosity, mentorship, and ambitious work.
