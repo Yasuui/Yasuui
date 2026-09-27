@@ -1,28 +1,11 @@
-<p align="center">
-  <img src="./assets/systems-line.svg" alt="Yonis Diriye — AI automation and full-stack development" width="100%" />
-</p>
+# Hey, I'm Yonis 👋
 
-<p align="center">
-  I turn unclear workflows into practical products, automations, and agent-powered tools—then share what I learn.
-</p>
+I build software, give AI agents slightly unreasonable jobs, and share what works (and what breaks).
 
-<p align="center">
-  <a href="https://diriye.ca">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/yonisdiriye/">LinkedIn</a> ·
-  <a href="https://cal.com/yonis-diriye">Connect</a>
-</p>
+**Currently playing with:** browser agents · agent harnesses · developer tools · software for small businesses
 
-## Selected work
+**A few things I've made:** [Workflow Friction Mapper](https://github.com/Yasuui/workflow-friction-mapper) · [HarnessGrade](https://github.com/Yasuui/harness-grade) · [Hermes Community Skills](https://github.com/Yasuui/hermes-community-skills)
 
-| Project | What it proves | Built with |
-| --- | --- | --- |
-| [Workflow Friction Mapper](https://workflow-friction-mapper.vercel.app) | Maps manual work into safer, measurable automation pilots. | Next.js · TypeScript |
-| [Hermes Community Skills](https://hermes-community-skills.vercel.app) | Makes community agent skills easier to discover and evaluate. | Python · Data pipelines |
-| [BasePass](https://github.com/Yasuui/BasePass) | Protects event-pass claims with signed QR codes and replay prevention. | Solidity · TypeScript |
-| [Gold & Black](https://github.com/Yasuui/Gold-Black) | Packages a reusable, privacy-first portfolio system. | Next.js · Tailwind CSS |
+**Behind the scenes:** [My little lab 🔬](lab/README.md) — experiments, build notes, and ideas in progress
 
-## Building around
-
-`AI automation` · `Agent workflows` · `Product engineering` · `Internal tools`
-
-Learning in public and open to engineering roles, startup collaborations, and practical AI projects with teams that value curiosity, mentorship, and ambitious work.
+[Website](https://diriye.ca) · [LinkedIn](https://www.linkedin.com/in/yonisdiriye/) · [Say hi](https://cal.com/yonis-diriye)
