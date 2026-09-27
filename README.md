@@ -6,6 +6,6 @@ I build software, give AI agents slightly unreasonable jobs, and share what work
 
 **A few things I've made:** [Workflow Friction Mapper](https://github.com/Yasuui/workflow-friction-mapper) · [HarnessGrade](https://github.com/Yasuui/harness-grade) · [Hermes Community Skills](https://github.com/Yasuui/hermes-community-skills)
 
-**Behind the scenes:** [My little lab 🔬](lab/README.md) — experiments, build notes, and ideas in progress
+**Behind the scenes:** [My little lab 🔬](lab/README.md) (experiments, build notes, and ideas in progress)
 
 [Website](https://diriye.ca) · [LinkedIn](https://www.linkedin.com/in/yonisdiriye/) · [Say hi](https://cal.com/yonis-diriye)
