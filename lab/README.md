@@ -8,7 +8,7 @@ This is my public scratchpad for **agent workflows, developer tools, and the occ
 
 | Rabbit hole | Question | Where it lives |
 | --- | --- | --- |
-| Agent harnesses | How little structure can an agent get away with while still doing reliable work? | [ystack](https://github.com/Yasuui/ystack) (older iteration; revisiting), [HarnessGrade](https://github.com/Yasuui/harness-grade) |
+| Agent harnesses | How little structure can an agent get away with while still doing reliable work? | [HarnessGrade](https://github.com/Yasuui/harness-grade); ystack, my own skill set, is being rebuilt from the skills I actually use |
 | Reusable skills | How do we make skills easier to find, understand, and check? | [Hermes Community Skills](https://github.com/Yasuui/hermes-community-skills) |
 | Browser agents | Can agents use a real browser safely, recover from errors, and show their work? | Exploring; no public release yet |
 | Agent observability | Can a simple Mac/iPhone interface explain what multiple agents are doing, spending, and waiting on? | Exploring; no public release yet |
@@ -16,6 +16,7 @@ This is my public scratchpad for **agent workflows, developer tools, and the occ
 
 ## Build notes
 
+- [Why I retired my multi-agent crew](notes/2026-10-25-retiring-my-agent-crew.md): what Hermes did, what broke, and what replaced it.
 - [I want smaller, more understandable agent systems](notes/2026-09-27-smaller-agent-systems.md) — what I'm optimizing for and what I still need to test.
 
 ## My rule for this space
